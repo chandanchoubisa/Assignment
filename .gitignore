@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+/.vscode
+__pycache__/
+db.sqlite3
+db.sqlite3-journal
+/media
+venv
+/static
+.DS_Store
